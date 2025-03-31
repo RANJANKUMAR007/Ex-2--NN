@@ -1,6 +1,6 @@
-<H3>Name:Easwari M</H3>
-<H3>Register no:212223240033</H3>
-<H3>Date:10/10/2024</H3>
+<H3>Name:RANJAN KUMAR G</H3>
+<H3>Register no:212223240138</H3>
+<H3>Date:31/03/2025</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
@@ -132,5 +132,3 @@ plt.show()
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
-
- 
